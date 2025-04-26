@@ -5,6 +5,9 @@ Basmah Arif | CMP6200/DIG6200 Individual Honours Project A AYR 2024/5 | Student 
 Individual Honours Project
 To Access the project, navigate to the compressed zip folder > Unity > **“Assets”** and open it via Unity Hub Editor version 2022.3.58f1. The Export folder contains the .apk build file of the VR project.
 
+For the best experience and to accurately hear all auditory cues, including background noises, it is advised to keep your computer or headphone volume at the highest comfortable level.
+
+
 # Overview
 This project presents "Echoscape VR," a Virtual Reality (VR) based environment developed using Unity and C# with extensive testing on Meta Quest 3 VR Headsets. Echoscape VR is a 3D pathfinding environment designed to study how visual and auditory cues impact users' spatial memory and navigation skills. The project focuses on immersive environmental design, cognitive engagement, and task-based interaction to enhance memory recall and spatial awareness in VR.
 
