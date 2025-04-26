@@ -109,9 +109,9 @@ In-Game HUD:
 
 # Environment Design
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/19#issue-3022123489
+![image](https://github.com/user-attachments/assets/b1b94da8-3a2f-4edd-bc03-c2b9bf522598)
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/18#issue-3022123408
+![image](https://github.com/user-attachments/assets/8580fbd6-8b67-4f67-8e6d-c1b48eec29c7)
 
 # Objectives & Locations
 
