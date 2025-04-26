@@ -26,6 +26,8 @@ Players perform eight specific tasks, such as collecting bread from a bakery sho
 4) Avoid dead-ends and wrong paths using environmental hints.
    
 5) Visual Progress Tracker and Objective Tracker (HUD-based) continuously show task completion and exploration percentage.
+   
+6) After each objective is completed, certain barriers in the environment change position, opening new paths and closing old ones to dynamically alter the pathfinding challenge.
 
 ![image](https://github.com/user-attachments/assets/69cbc046-b10f-452f-9cae-aeab00a5c9c0)
 
