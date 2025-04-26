@@ -27,7 +27,7 @@ Players perform eight specific tasks, such as collecting bread from a bakery sho
    
 5) Visual Progress Tracker and Objective Tracker (HUD-based) continuously show task completion and exploration percentage.
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/7#issue-3022121557
+![image](https://github.com/user-attachments/assets/69cbc046-b10f-452f-9cae-aeab00a5c9c0)
 
 
 **Tasks Include:**
@@ -54,9 +54,9 @@ Each objective tracks completion status, and progress is measured via live HUD e
 - **Environmental Sounds:** Waterfalls, birds, ambient city noises help with orientation.
 
 
-![image](https://github.com/user-attachments/assets/c3c8e755-a641-41b4-aac4-d335b2ec3dad)
+![image](https://github.com/user-attachments/assets/ab0e3f8e-be06-4051-8bbd-6983b4d2ca9d)
 
-![image](https://github.com/user-attachments/assets/aacb22df-9091-497c-89a6-b3a376127fab)
+![image](https://github.com/user-attachments/assets/7aae21ee-bba2-44dd-a7f9-7251a48da372)
 
 
 **Teleportation and Special Mechanics:**
@@ -67,7 +67,7 @@ Each objective tracks completion status, and progress is measured via live HUD e
 
 - Incorrect path detection triggers red trees and eerie sounds to notify players they need to change direction.
 
-![image](https://github.com/user-attachments/assets/4e64d162-80dc-4c97-ac84-d624d461aa83)
+![image](https://github.com/user-attachments/assets/02661db2-3c1a-4c37-b4a5-3357c329f67d)
 
 ![image](https://github.com/user-attachments/assets/b7c70d6b-48a9-40db-870f-9ffe74d8af85)
 
