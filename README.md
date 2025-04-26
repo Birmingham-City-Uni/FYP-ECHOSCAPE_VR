@@ -54,9 +54,9 @@ Each objective tracks completion status, and progress is measured via live HUD e
 - **Environmental Sounds:** Waterfalls, birds, ambient city noises help with orientation.
 
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/8#issue-3022121986
+![image](https://github.com/user-attachments/assets/c3c8e755-a641-41b4-aac4-d335b2ec3dad)
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/6#issue-3022121392
+![image](https://github.com/user-attachments/assets/aacb22df-9091-497c-89a6-b3a376127fab)
 
 
 **Teleportation and Special Mechanics:**
@@ -67,7 +67,10 @@ https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/6#issue-302212139
 
 - Incorrect path detection triggers red trees and eerie sounds to notify players they need to change direction.
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/17#issue-3022123254
+![image](https://github.com/user-attachments/assets/4e64d162-80dc-4c97-ac84-d624d461aa83)
+
+![image](https://github.com/user-attachments/assets/b7c70d6b-48a9-40db-870f-9ffe74d8af85)
+
 
 
 **Main Menu**
@@ -78,13 +81,13 @@ https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/17#issue-30221232
   
 - Settings: Shows the options of enabling and disabling Player Sound and Environment Music. 
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/1#issue-3022119879
+![image](https://github.com/user-attachments/assets/23e78de8-0749-420e-9830-e019fd718c35)
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/4#issue-3022120893
+![image](https://github.com/user-attachments/assets/831f434d-be4c-4316-b8ab-b38dba0979ee)
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/3#issue-3022120798
+![image](https://github.com/user-attachments/assets/d4b856df-dfe0-46bc-bf0d-50ff096f27fb)
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/2#issue-3022120163
+![image](https://github.com/user-attachments/assets/049e20dc-a9c0-4994-8d44-4a87fbf090e8)
 
 
 **Heads-up display**
@@ -101,7 +104,7 @@ In-Game HUD:
   
 - Task Description UI
 
-https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/5#issue-3022121220
+![image](https://github.com/user-attachments/assets/7de86d07-f20f-4f14-be9c-33242c10ac9c)
 
 
 # Environment Design
