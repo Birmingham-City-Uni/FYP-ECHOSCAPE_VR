@@ -136,6 +136,23 @@ In-Game HUD:
 
 ![image](https://github.com/user-attachments/assets/1cf3829c-c427-4fc3-96dc-cedb1bf414da)
 
+# Controls for Testing on Computer
+
+**Player Controls:**
+
+- W, A, S, D = Basic Movement
+  
+- X = Grap/Drop Object
+  
+- Control (CTRL) Key = Player Position goes Downwards
+  
+- ALT Key = Player Position goes Upwards
+
+- Spacebar = Jump
+
+- Mouse Click 
+
+
 
 # VR Controls
 
