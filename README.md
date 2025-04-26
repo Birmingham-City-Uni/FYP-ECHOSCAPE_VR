@@ -27,6 +27,8 @@ Players perform eight specific tasks, such as collecting bread from a bakery sho
    
 5) Visual Progress Tracker and Objective Tracker (HUD-based) continuously show task completion and exploration percentage.
 
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/7#issue-3022121557
+
 
 **Tasks Include:**
 
@@ -52,6 +54,11 @@ Each objective tracks completion status, and progress is measured via live HUD e
 - **Environmental Sounds:** Waterfalls, birds, ambient city noises help with orientation.
 
 
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/8#issue-3022121986
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/6#issue-3022121392
+
+
 **Teleportation and Special Mechanics:**
 
 - Players have teleportation points at major city intersections for faster backtracking to previously visited checkpoints.
@@ -59,6 +66,67 @@ Each objective tracks completion status, and progress is measured via live HUD e
 - After staying over 30 seconds in the garbage area, a sound-based warning appears to signal time wastage, encouraging players to reorient towards the objective.
 
 - Incorrect path detection triggers red trees and eerie sounds to notify players they need to change direction.
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/17#issue-3022123254
+
+
+**Main Menu**
+
+- Player Profile: Shows Objective Progress and Environment Progress completed by the player. 
+  
+- Description: Shows the Instructions of the Game. 
+  
+- Settings: Shows the options of enabling and disabling Player Sound and Environment Music. 
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/1#issue-3022119879
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/4#issue-3022120893
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/3#issue-3022120798
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/2#issue-3022120163
+
+
+**Heads-up display**
+
+In-Game HUD: 
+
+- Distance Bar
+  
+- Task List
+  
+- Objective Progress Bar
+  
+- Timer
+  
+- Task Description UI
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/5#issue-3022121220
+
+
+# Environment Design
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/19#issue-3022123489
+
+https://github.com/Birmingham-City-Uni/FYP-ECHOSCAPE_VR/issues/18#issue-3022123408
+
+# Objectives & Locations
+
+![image](https://github.com/user-attachments/assets/96366784-93ae-4cf7-a363-7d1f58f79b83)
+
+![image](https://github.com/user-attachments/assets/768de50f-5e34-4261-9990-b511b0f63ae5)
+
+![image](https://github.com/user-attachments/assets/6e02e7cf-4494-46b1-97dc-26e34a28eace)
+
+![image](https://github.com/user-attachments/assets/98ab55cc-106d-4faf-b95c-d9c7afce4406)
+
+![image](https://github.com/user-attachments/assets/c838bb9d-b36a-499a-83f4-c840e81d30b3)
+
+![image](https://github.com/user-attachments/assets/ef0d6b27-bdf6-40b6-8abd-826281d93478)
+
+![image](https://github.com/user-attachments/assets/33a7f4f8-48bc-417a-8b9e-15998158c652)
+
+![image](https://github.com/user-attachments/assets/1cf3829c-c427-4fc3-96dc-cedb1bf414da)
 
 
 # VR Controls
