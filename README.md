@@ -150,9 +150,6 @@ In-Game HUD:
 
 - Spacebar = Jump
 
-- Mouse Click 
-
-
 
 # VR Controls
 
