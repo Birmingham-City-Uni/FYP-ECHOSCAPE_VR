@@ -202,25 +202,36 @@ features in crossing –What is good for your memory
 •	What is Spatial cognition (difference between wayfinding) and why it is important? 
 
 •	How sound element play a role in spatial cognition
+
 Or any other objects could affect the memory 
+
 •	Related project using digital media to help spatial cognition 
 
 **Papers Read:**
 
 •	Klencklen, G., Després, O. & Dufour, A. (2012). What do we know about aging and spatial cognition? Reviews and perspectives. Ageing research reviews, 11(1),123-135. https://doi.org/10.1016/j.arr.2011.10.001 [Accessed 19 October 2024].
+
 •	Marshall, J.C., & Fink, G.R. (2001). Spatial cognition: Where we were and where we are. NeuroImage, 14(1), S2-S7. https://doi.org/10.1006/nimg.2001.0834 [Accessed 21 October 2024].
+
 •	Spence, I., & Feng, J. (2010). Video games and spatial cognition. Review of General Psychology, 14(2), 92-104. https://doi.org/10.1037/a0019491 [Accessed 21 October 2024].
+
 •	Lee, E.A.L., & Wong, K.W. (2014). Learning with desktop virtual reality: Low spatial ability learners are more positively affected. Computers & Education, 79, 49-58. https://doi.org/10.1016/j.compedu.2014.07.010 [Accessed 21 October 2024].
+
 •	Gardony, A.L., Martis, S.B., Taylor, H.A., & Brunyé, T.T. (2021). Interaction strategies for effective augmented reality geo-visualization: Insights from spatial cognition. Human–Computer Interaction, 36(2), 107-149. https://doi.org/10.1080/07370024.2018.1531001 [Accessed 24 October 2024].
+
 •	Chang, Y.L. (2003). Spatial cognition in digital cities. International Journal of Architectural Computing, 1(4), 471-488. https://doi.org/10.1260/147807703773633482 [Accessed 24 October 2024].
+
 •	Kim, B., Pack, Y.H., & Yi, S.H. (2017). The effects of presented media types on spatial cognition task performance in preschool children. Child Studies in Asia-Pacific Contexts, 7(1), 27-38. https://doi.org/10.5723/csapk.2017.7.1.027 [Accessed 25 October 2024].
+
 •	Golledge, R.G. (2002). Spatial cognition and converging technologies. In Converging technologies for improving human performance (p. 122). National Science Foundation. https://books.google.co.uk/books?id=hH4iCQAAQBAJ [Accessed 26 October 2024].
 
 
 **Assigned Tasks:**
 
 Read Rowan’s paper 
+
 Supervisor – send paper to Basmah 
+
 -- How to test on VR 
 
 # October, 2024
@@ -230,6 +241,7 @@ Supervisor – send paper to Basmah
 **Discussion**
 
 **Key words:** 
+
 - spatial cognition, immersive digital simulation for way finding, Web based
 
 - Think about how to identify different visual features to help people to enhance their memory of the location/space. 
@@ -245,14 +257,18 @@ Supervisor – send paper to Basmah
 
 **Progress:**
 
-- Web based VR 
+- Web based VR
+  
 - Eye tracking – Xi find out 
 
 **Action:**
 
 •	What is spatial cognition?
+
 •	Outdoor environment/ indoor environment visual/audio elements that affect the memory
+
 •	Crossing –what elements will affect /help the memory/decision making process
+
 •	Research on how to implement VR in Unity. Simulator 
 
 
@@ -296,7 +312,9 @@ I found that different elements in outdoor and indoor environments, like visual 
 **Week 6 – W/C 28th October 2024**
 
 • Focus on reading paper on 
-•	What is Spatial cognition (difference between wayfinding) and why it is important? 
+
+•	What is Spatial cognition (difference between wayfinding) and why it is important?
+
 •	How sound element play a role in spatial cognition
 
 **Progress & Action:**
@@ -387,7 +405,9 @@ This week, I made progress in writing the literature review of my project. I man
 
 **Actions Completed:**
 •	Reviewed 35 academic papers related to spatial cognition and VR.
+
 •	Wrote a detailed literature review linking research findings to my project goals.
+
 •	Identified gaps in the literature to address in the next phase of my project.
 
 
@@ -398,15 +418,20 @@ This week, I successfully completed and submitted the literature review section 
 **Actions Completed:**
 
 •	Completed the writing of the literature review and submitted it on time.
+
 •	Identified additional papers to support each theme, further strengthening the analysis.
+
 •	Accurately referenced all sources within the review, ensuring alignment with academic standards.
 
 
 **Week 10 – W/C 25th November 2024**
 
 - Has talked Ben and Jieling
+  
 - Unity or Web—you need to make a decision
+  
 - Finish the Ethic form
+  
 - Please think about your design
 
 This week, I discussed project details with Ben and Jieling to refine my approach. After careful evaluation, I made the decision to proceed with Unity as the platform for developing the VR prototype, prioritizing its advanced features and flexibility over web-based alternatives. Additionally, I made progress on completing two forms required for the project ethics approval. However, I still need to finalize the project declaration form, which I plan to complete and submit to Dr. Xi soon.
@@ -414,7 +439,9 @@ This week, I discussed project details with Ben and Jieling to refine my approac
 **Actions Completed:**
 
 •	I have consulted with Ben and Jieling regarding the project.
+
 •	I chose Unity as the primary development platform for the VR prototype.
+
 •	I managed to complete two forms for ethics approval and prepared to finalize the project declaration form.
 
 
@@ -456,9 +483,13 @@ Additionally, I emailed several potential participants for my study and received
 
 11th Feb.
 Progress.  
+
 Added keywords in dissertation 
+
 Added concept design 
+
 Have evaluation plan 
+
 Have mockup. 
 
 **Action:**
@@ -528,8 +559,11 @@ This week, I made key progress in both implementation and preparation for partic
 I also refined the tasks to be realistic and context-based, including:
 
 •	Picking up bread and returning home
+
 •	Delivering a suit from the laundry
+
 •	Finding a lost key near garbage and returning it
+
 •	Retrieving a pet and bringing it home
 
 Additionally, I implemented gamified elements like coins and diamonds, which users earn at checkpoints. Coins extend the time limit, while diamonds freeze time and clarify tasks. I confirmed with my supervisor that using gamification is acceptable as long as it’s logically linked and I will include relevant review papers on gamification in my literature review to support this.
@@ -544,12 +578,19 @@ This week, I prepared for the first round of participant testing, scheduled for 
 I also made very good progress on my dissertation, integrating feedback and refining the structure.
 
 Testing setup includes:
+
 •	2-minute project introduction
+
 •	10-minute improved pre-questionnaire
+
 •	3–5-minute tutorial session
+
 •	5-minute break
+
 •	15-minute gameplay session (record number of tasks completed, total time and player interactions)
+
 •	10-minute post-questionnaire
+
 I received feedback on my questionnaire design and reviewed how to adjust Unity's developer mode and settings to support smooth testing and data recording. 
 
 # April, 2025
