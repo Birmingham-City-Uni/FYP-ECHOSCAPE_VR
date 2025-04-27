@@ -157,8 +157,8 @@ In-Game HUD:
 
 - Right Thumbstick for Player Movement and Turning.
 - Left Thumbstick for Camera Rotation. (The UI will move with the camera rotation). 
-- Trigger Button A to pick up and drop objects.
-- Holding Button R1 + Button R2 enables Teleporting function.  
+- Trigger Button R2 to pick up and drop objects.
+- Holding Button R2 + Button R3 enables Teleporting function.  
 
 **Interaction System:**
 
