@@ -3,7 +3,7 @@
 Basmah Arif | CMP6200/DIG6200 Individual Honours Project A AYR 2024/5 | Student ID:21159823
 
 Individual Honours Project
-To Access the project, navigate to the compressed zip folder > Unity > **“Assets”** and open it via Unity Hub Editor version 2022.3.58f1. The Export folder contains the .apk build file of the VR project.
+To Access the project, navigate to the compressed zip folder > Unity > **“Assets”** and open it via Unity Hub Editor version 2022.3.58f1. The Unity folder also contains the .apk build file of the VR project.
 
 For the best experience and to accurately hear all auditory cues, including background noises, it is advised to keep your computer or headphone volume at the highest comfortable level.
 
