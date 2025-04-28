@@ -204,8 +204,6 @@ Building this VR application bridges entertainment and research, offering both a
 
 - [documentation] (contains weekly logbook, consent forms, Post-Quiz, Participants' Images, Participants' List, Powerpoint presentation, Videos/Tutorial)
 
-- [Unity] (contains the main Unity project files, including assets, scenes, scripts and prefabs necessary for the game's development)
-
 - [.gitignore] (contains untracked files to ignore in Git such as Build files, logs)
 
 - [README] (this file contains complete documentation)
@@ -250,15 +248,9 @@ Open Visual Studio from application folder
 
 - Agile-based task management (weekly sprints + Gantt Chart).
 
-- GitHub Projects used for progress tracking.
-
-- Regular code commits, reviews, and version control.
-
 - Participant feedback loops for iterative improvements.
 
 # Quality Assurance
-
-- Code linting and best practices followed.
 
 - Manual QA testing across multiple participants and sessions.
 
